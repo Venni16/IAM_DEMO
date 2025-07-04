@@ -1,0 +1,7 @@
+Flask==2.0.1
+Flask-SQLAlchemy==2.5.1
+Flask-Bcrypt==1.0.1
+Flask-Limiter==2.4.0
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+Werkzeug==2.0.2
