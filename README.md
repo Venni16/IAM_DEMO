@@ -1,10 +1,10 @@
-Identity and Access Management (IAM) System.
+## Identity and Access Management (IAM) System.
 
-Overview:
+# Overview:
 
 This is a comprehensive Identity and Access Management (IAM) system built with Flask (Python backend) and vanilla JavaScript (frontend). The system provides secure user authentication, role-based access control, and security monitoring features.
 
-Key Features
+## Key Features
     -User Authentication: Secure login/logout functionality with session management
 
    -Role-Based Access Control: Different permissions for admin and regular users
@@ -19,9 +19,9 @@ Key Features
 
    -Login Attempt Monitoring: Tracking and visualization of login attempts
 
-System Components:
+## System Components:
 
- Backend (Flask)
+ # Backend (Flask)
 
    -User authentication with bcrypt password hashing
 
@@ -33,7 +33,7 @@ System Components:
 
    -Comprehensive API endpoints for all functionality
 
-Frontend (JavaScript)
+# Frontend (JavaScript)
 
    -Responsive UI with login and dashboard interfaces
 
@@ -43,7 +43,7 @@ Frontend (JavaScript)
 
    -Real-time notifications and error handling
 
-Database Models
+# Database Models
 
    -User: Stores user credentials, roles, and login attempt data
 
@@ -53,9 +53,9 @@ Database Models
 
    -SecurityLog: Stores security events for auditing purposes
 
-Installation
+## Installation
 
- Prerequisites:
+ # Prerequisites:
 
    -Python 3.7+
 
@@ -65,7 +65,7 @@ Installation
 
 
 
-Setup Steps
+## Setup Steps
 
  1.Clone the repository:
    git clone https://github.com/yourusername/iam.git
@@ -84,7 +84,7 @@ Setup Steps
  5.Access the application at: http://localhost:5000
 
 
-Default Credentials:
+## Default Credentials:
 
 Admin: username=admin, password=admin123
 
