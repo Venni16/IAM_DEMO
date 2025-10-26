@@ -89,3 +89,8 @@ This is a comprehensive Identity and Access Management (IAM) system built with F
 Admin: username=admin, password=admin123
 
 Regular User: username=user, password=user123
+
+
+## Author
+
+Vennilavan Manoharen – for academic submission.
